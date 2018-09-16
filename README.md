@@ -11,4 +11,4 @@
 ![Screenshot](https://github.com/DhirajAswani/Fruit-Ninja/blob/master/game%20demo.png)
 
 ### Game Over
-[!Screenshot]{}
+![Screenshot](https://github.com/DhirajAswani/Fruit-Ninja/blob/master/gameover.PNG)
